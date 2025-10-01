@@ -22,3 +22,4 @@ pip install -r requirements.txt
 
 # run
 streamlit run app.py
+https://my-new-repo-8w8e.onrender.com/
